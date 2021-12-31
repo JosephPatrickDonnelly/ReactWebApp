@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "0Te0LLNtkCaqcaP0EDua0LlYPL005dL6naYnWQqxYiIgSEseD6pVL6CASldLAeQ/L2ug5+m28rQmDRJ9s95foQ==",
+  "success": true,
+  "projectFilePath": "C:\\JWebDev\\ReactWebApp\\ReactWebApp\\ReactWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\josep\\.nuget\\packages\\microsoft.aspnetcore.authentication.negotiate\\3.1.22\\microsoft.aspnetcore.authentication.negotiate.3.1.22.nupkg.sha512",
+    "C:\\Users\\josep\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\3.1.22\\microsoft.aspnetcore.connections.abstractions.3.1.22.nupkg.sha512",
+    "C:\\Users\\josep\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.22\\microsoft.aspnetcore.http.features.3.1.22.nupkg.sha512",
+    "C:\\Users\\josep\\.nuget\\packages\\microsoft.aspnetcore.nodeservices\\3.1.22\\microsoft.aspnetcore.nodeservices.3.1.22.nupkg.sha512",
+    "C:\\Users\\josep\\.nuget\\packages\\microsoft.aspnetcore.spaservices\\3.1.22\\microsoft.aspnetcore.spaservices.3.1.22.nupkg.sha512",
+    "C:\\Users\\josep\\.nuget\\packages\\microsoft.aspnetcore.spaservices.extensions\\3.1.22\\microsoft.aspnetcore.spaservices.extensions.3.1.22.nupkg.sha512",
+    "C:\\Users\\josep\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.22\\microsoft.extensions.configuration.3.1.22.nupkg.sha512",
+    "C:\\Users\\josep\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.22\\microsoft.extensions.configuration.abstractions.3.1.22.nupkg.sha512",
+    "C:\\Users\\josep\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.22\\microsoft.extensions.configuration.binder.3.1.22.nupkg.sha512",
+    "C:\\Users\\josep\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.22\\microsoft.extensions.dependencyinjection.3.1.22.nupkg.sha512",
+    "C:\\Users\\josep\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.22\\microsoft.extensions.dependencyinjection.abstractions.3.1.22.nupkg.sha512",
+    "C:\\Users\\josep\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.22\\microsoft.extensions.fileproviders.abstractions.3.1.22.nupkg.sha512",
+    "C:\\Users\\josep\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.22\\microsoft.extensions.fileproviders.physical.3.1.22.nupkg.sha512",
+    "C:\\Users\\josep\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.22\\microsoft.extensions.filesystemglobbing.3.1.22.nupkg.sha512",
+    "C:\\Users\\josep\\.nuget\\packages\\microsoft.extensions.logging\\3.1.22\\microsoft.extensions.logging.3.1.22.nupkg.sha512",
+    "C:\\Users\\josep\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.22\\microsoft.extensions.logging.abstractions.3.1.22.nupkg.sha512",
+    "C:\\Users\\josep\\.nuget\\packages\\microsoft.extensions.logging.configuration\\3.1.22\\microsoft.extensions.logging.configuration.3.1.22.nupkg.sha512",
+    "C:\\Users\\josep\\.nuget\\packages\\microsoft.extensions.logging.console\\3.1.22\\microsoft.extensions.logging.console.3.1.22.nupkg.sha512",
+    "C:\\Users\\josep\\.nuget\\packages\\microsoft.extensions.options\\3.1.22\\microsoft.extensions.options.3.1.22.nupkg.sha512",
+    "C:\\Users\\josep\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\3.1.22\\microsoft.extensions.options.configurationextensions.3.1.22.nupkg.sha512",
+    "C:\\Users\\josep\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.22\\microsoft.extensions.primitives.3.1.22.nupkg.sha512",
+    "C:\\Users\\josep\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\josep\\.nuget\\packages\\system.io.pipelines\\4.7.4\\system.io.pipelines.4.7.4.nupkg.sha512",
+    "C:\\Users\\josep\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

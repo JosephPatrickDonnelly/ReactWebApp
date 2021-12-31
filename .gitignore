@@ -1,0 +1,6 @@
+#Ignore .exe files
+*.exe
+#Ignore .obj files
+*.obj
+#Ignore files in ReactWebApp/bin/
+ReactWebApp/bin/
